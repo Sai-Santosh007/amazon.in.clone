@@ -1,0 +1,21 @@
+.navbar{
+  width: 100%;
+}
+.searchbar{
+
+}
+.address, .dropdown, .dropdownacc, .return{
+  display: none;
+}
+.opt-bar {
+ width: 100%;
+}
+.mx, .sell, .bestsellers, .new, .customer, .electronics, .fashion, .home, .amazon-pay, .computer, .book, .home-imp{
+  display: none;
+}
+.cover-image{
+ width: 100%;
+}
+.box{
+ flex-wrap: wrap;
+}
